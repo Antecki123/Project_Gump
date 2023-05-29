@@ -1,4 +1,4 @@
-# Project_Gump
+# Endless Runner Game
  
 ### Description:
 Welcome to my Unity endless runner game! This README file provides essential information about the game. Please read this file thoroughly before starting.
@@ -18,6 +18,8 @@ Welcome to my Unity endless runner game! This README file provides essential inf
 
 4. Scoring and Leaderboards:
    - Your score increases over time as you survive in the game.
+
+5. Available languages: EN, FR, DE, IT, PL, ES.
 
 ### Screenshots
 ![Image](Screenshot%201.png)
