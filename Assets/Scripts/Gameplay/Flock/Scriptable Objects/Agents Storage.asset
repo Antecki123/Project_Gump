@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b47d32d5ebc6be4cb9b79565beca516, type: 3}
+  m_Name: Agents Storage
+  m_EditorClassIdentifier: 
+  activeAgent: {fileID: 6899565097346814980, guid: 2da8add921534d04fbfdd9548f57644a,
+    type: 3}
+  agents:
+  - agentName: Wizzard
+    agentPrefab: {fileID: 3097119222001066502, guid: f11faea490bdce342bb44bd48d8268fe,
+      type: 3}
+    agentSprite: {fileID: 21300000, guid: dae33700bd23f76409a80bf78fdb8a42, type: 3}
+    agentAvailability: 1

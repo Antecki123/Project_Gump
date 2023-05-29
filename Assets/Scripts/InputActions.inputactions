@@ -1,0 +1,62 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "PC",
+            "id": "ee54f28b-9e66-4ac3-bb12-e6e0097788ed",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "Button",
+                    "id": "53800607-5dd7-453d-b9c6-a2d0052d5d7e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "6bc0d68c-7c3e-4d0d-beed-10da8bbb9d8c",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "592538c4-e45e-43e3-8aa3-4fbe42e154c9",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "PC",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "b74bdc39-457f-4253-9d95-cbd165bcc488",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "PC",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "PC",
+            "bindingGroup": "PC",
+            "devices": []
+        }
+    ]
+}

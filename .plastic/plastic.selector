@@ -1,0 +1,4 @@
+repository "Project_Gump"
+  path "/"
+    smartbranch "/main/prototype" 
+     

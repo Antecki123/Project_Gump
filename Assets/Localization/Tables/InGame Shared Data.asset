@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InGame Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InGame
+  m_TableCollectionNameGuidString: 4bbafa3024ca20f4c95a42dbe298a605
+  m_Entries:
+  - m_Id: 51594833920
+    m_Key: Game_Over_Header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507217883136
+    m_Key: Retry_Button_Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555175555072
+    m_Key: Menu_Button_Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 578693017600
+    m_Key: Continue_Button_Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1410595467264
+    m_Key: Pause_Header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1489570017280
+    m_Key: Score_Game_Over_Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620637822976
+    m_Key: Units_Game_Over_Label
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3043929167918792709
+  references:
+    version: 2
+    RefIds:
+    - rid: 3043929167918792709
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1679440539562

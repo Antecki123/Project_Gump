@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Main Menu_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: f4a2a9eacf38e724fac4f05ace3ad623, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 70968324096
+    m_Localized: Rozpocznij gre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2263356190720
+    m_Localized: Wyniki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2326740512768
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2329953349632
+    m_Localized: Wyjscie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7824353177600
+    m_Localized: Wroc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15372867252224
+    m_Localized: 'Zmien Nazwe:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15655429124096
+    m_Localized: Potwierdz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47899480862720
+    m_Localized: Muzyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47987120844800
+    m_Localized: Efekty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48108688551936
+    m_Localized: Jezyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48161159294976
+    m_Localized: Wibracje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49857843343360
+    m_Localized: Podaj swoje imie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59938345496576
+    m_Localized: Tworcy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173072841977856
+    m_Localized: Polski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8028292230328320
+    m_Localized: Jakosc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13093682589380608
+    m_Localized: 'Twoj wynik:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
