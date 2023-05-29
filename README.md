@@ -19,8 +19,9 @@ Welcome to my Unity endless runner game! This README file provides essential inf
 4. Scoring and Leaderboards:
    - Your score increases over time as you survive in the game.
 
-#### Screenshots
-(TBD)
+### Screenshots
+![Image](screenshot%201.png)
+![Image](screenshot%202.png)
 
 #### You can download and test the build of this game from: [TBD](https://github.com/Antecki123)
 
