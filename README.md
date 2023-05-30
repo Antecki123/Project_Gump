@@ -3,7 +3,7 @@
 ### Description:
 Welcome to my Unity endless runner game! This README file provides essential information about the game. Please read this file thoroughly before starting.
 
-### Gameplay:
+## How to Play
 
 1. Objective:
    - The goal is to control the flock as it runs endlessly through a dynamically generated level, avoiding obstacles.
