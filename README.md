@@ -22,8 +22,7 @@ Welcome to my Unity endless runner game! This README file provides essential inf
 5. Available languages: EN, FR, DE, IT, PL, ES.
 
 ### Screenshots
-![Image](Screenshot%201.png)
-![Image](Screenshot%202.png)
+![Image](Screenshot.png)
 
 #### You can download and test the build of this game from: [TBD](https://github.com/Antecki123)
 
