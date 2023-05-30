@@ -6,11 +6,11 @@ Welcome to my Unity endless runner game! This README file provides essential inf
 ### Gameplay:
 
 1. Objective:
-   - The goal is to control the actors as it runs endlessly through a dynamically generated level, avoiding obstacles.
+   - The goal is to control the flock as it runs endlessly through a dynamically generated level, avoiding obstacles.
    - The longer you survive, the higher your score.
 
 2. Controls:
-   - Move your character left or right using the arrow keys or A and D keys.
+   - Move the flock left or right using the arrow keys or A and D keys.
 
 3. Obstacles:
    - Navigate around various obstacles, such as pits, spikes, or moving platforms.
